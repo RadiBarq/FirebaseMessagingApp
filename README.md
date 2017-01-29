@@ -5,11 +5,10 @@ This is a professional real time messaging app using firebase for both android a
 #How to use the app
 
 
-<h2>Android </h2>
+<h2>Android</h2>
 
  1. Chat.java contains the code for the chat app.
-
-
-</h2>iOS</h2>
+ 
+<h2>iOS</h2>
 
 <p>In iOS app there are the </p>
