@@ -6,12 +6,14 @@ This is a professional real time messaging app using firebase for both android a
 
 
 <h2>Android</h2>
-<p><b>. </b>Inside the Android folder there is the Chat.java activity that contains the code for the chat app <b> please make sure the theme for this activity in the manifest file comes with action bar</b></p>
-<p><b>. </b>Also there is the activity_chat layout that contains the list of the messages and the input field</p>
-<p><b>. </b>There are also two other layout files(message_left.xml and message.xml) these are the layout for every message, message_left.xml the design for the left message(the person you chat with), and message.xml the design for the right message (your messages)</p>
-<p><b>. </b>On the drawable folder there is two files that related to the buuble background of the messages and from these files you can change the colors of the right and left messages</p>
-<p><b>. </b>These file are bg_msg_from1.xml, bg_msg_from_left.xml </p>
+<p><b>. </b>Inside the Android folder there is the Chat.java activity that contains the code for the chat app <b> please make                                sure the theme for this activity in the manifest file comes with action bar</b> and <b> make sure that you change the reference of the firebase to your firebase to get your messages</b></p>
+
+
+<p><b>. </b>Also there is the activity_chat layout that contains the list of the messages and the input field to add messages</p>
+<p><b>. </b>There are also two other layout files(message_left.xml and message.xml) these are the layout for every message,      message_left.xml the design for the left message(the person you chat with), and message.xml the design for the right message (your messages)</p>
+<p><b>. </b>On the drawable folder there is two files <b>bg_msg_from1.xml</b> and <b>bg_msg_from_left.xml</b> that related to the buuble background of the messages and from these files you can change the colors of the right and left messages</p>
 <h4>Copy the mentioned above to your app and that chat app is ready</h4>
+
 <h2>iOS</h2>
 
 <p>In iOS app there are the </p>
