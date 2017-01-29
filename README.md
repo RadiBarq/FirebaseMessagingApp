@@ -7,7 +7,11 @@ This is a professional real time messaging app using firebase for both android a
 
 <h2>Android</h2>
 
- 1. Chat.java contains the code for the chat app.
+<p> Inside the Android folder there is the Chat.java activity that contains the code for the chat app.</p>
+<p> Also there is the activity_chat layout that contains the list of the messages and the input field</p>
+<p> There are also two othe layout files(message_left.xml and message.xml) those are the layout for every message, message_left.xml the design for the left message(the person you message with), and message.xml the design for the right message (your messages).</p>
+
+
  
 <h2>iOS</h2>
 
