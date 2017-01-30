@@ -11,7 +11,7 @@ This is a professional real time messaging app using firebase for both android(j
 <h4> Dependencies Used</h4>
 <p> I included the gradle file, notice that not all the dependcies needed for the messaging app <b>only the first four.</b></p>
 
-<h4> Android Other Files</h4>
+<h4>Other Files</h4>
 
 <p><b>. </b>Inside the Android folder there is the Chat.java activity that contains the code for the chat app <b> please make                                sure the theme for this activity in the manifest file comes with action bar</b> and <b> make sure that you change the reference of the firebase to your firebase to get your messages</b></p>
 
