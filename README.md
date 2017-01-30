@@ -1,11 +1,11 @@
 # FirebaseMessagingApp (The app will be ready soon I'm working to open source it.)
-This is a professional real time messaging app using firebase for both android(java)(adnroid studio) and iOS(xcode)(swift). Actually I built this messenger while developing my fungi app, so feel free to use it developers.<b> Notice that this is not a whole application just the files necessary for the chat application.</b>
+This is a professional real time messaging app using firebase for both android(java, adnroid studio) and iOS(xcode, swift). I built this messenger while developing my fungi app, so feel free to use it.<b> Notice that this is not a whole application just the files necessary for the chat application.</b>
 
 
 #How To Use The App
 
-<h2> Again this is not the whole application just the files neccessary for the chat application so you just have to add these files to your project</h2>
-<h2> You may have issues with compatibality with your development kit such as sdk version or deployment target, if you have this kind of issues, alternate the code causes the issues with code compatible with your settings</h2>
+<h2> Again this is not the whole application just the files neccessary for the chat application so you jus should add these files to your project</h2>
+<h2> You may have issues with compatibality with your development kit such as sdk version or deployment target, if you have this kind of issues, change the code causes this issues with code compatible with your settings. I attached the gradle file  for android, and for iOS the deployment target is 10</h2>
 
 <h2>Android</h2>
 <h4> Dependencies Used</h4>
