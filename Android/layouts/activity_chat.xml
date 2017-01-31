@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context="com.example.radibarq.pokemongotradecenter.Chat">
+
+
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:dividerHeight="0dp"
+        android:transcriptMode="alwaysScroll"
+        android:divider="@android:color/transparent"
+        android:id="@+id/list_of_messages"
+        android:padding="0dip"
+        android:layout_marginBottom="50dp"
+        android:stackFromBottom="true"
+        />
+
+
+    <RelativeLayout
+        android:id="@+id/divider"
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="#CCCCCC"
+        android:layout_above="@+id/relSendMessage"
+        android:layout_marginTop="20dp"
+        />
+
+
+    <RelativeLayout
+        android:id="@+id/relSendMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:background="@android:color/white"
+        android:paddingLeft="10dp"
+
+        android:layout_alignParentBottom="true">
+
+        <Button
+            android:layout_width="72dp"
+            android:layout_height="match_parent"
+            android:clickable="true"
+            android:id="@+id/fab"
+            android:tint="@android:color/white"
+            android:layout_alignParentRight="true"
+            android:layout_margin="4dp"
+            android:text="Send"
+            android:background="#ffff"
+            android:textColor="@color/colorPrimary"
+            style="@style/Widget.AppCompat.Button.Borderless" />
+
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="-4dp"
+                android:textSize="16dp"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginRight="10dp"
+                android:layout_alignTop="@+id/fab"
+                android:background="@android:color/white"
+                android:layout_alignBottom="@+id/fab"
+                android:layout_toLeftOf="@+id/fab"
+                android:hint="Enter message..."
+                android:textColorHint="#CCCCCC"
+                android:id="@+id/input"
+
+                />
+
+        </RelativeLayout>
+
+
+
+</RelativeLayout>
