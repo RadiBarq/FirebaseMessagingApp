@@ -1,4 +1,4 @@
-# FirebaseMessagingApp (The app will be ready soon I'm working to open source it.)
+# FirebaseMessagingApp
 This is a professional real time messaging app using firebase for both Android (java, adnroid studio) and iOS (xcode, swift). I built this messenger while developing my fungi app, so feel free to use it.<b> Notice that this is not the whole app just the files necessary for the chat.</b>
 
 
