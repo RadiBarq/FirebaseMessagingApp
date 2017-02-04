@@ -14,7 +14,7 @@ This is a professional real time messaging app using firebase for both Android (
 <p><b>. </b>Also there is the activity_chat layout that contains the list of the messages and the input field to add messages</p>
 <p><b>. </b>There are also two other layout files(message_left.xml and message.xml) these are the layouts for every message.      message_left.xml the design for the left message(the person you chat with), and message.xml the design for the right message (your messages)</p>
 <p><b>. </b>On the drawable folder there is two files <b>bg_msg_from1.xml</b> and <b>bg_msg_from_left.xml</b> these files related to the bubble background of the messages and from these files you can change the colors of the right and left messages</p>
-<h4>Copy the mentioned above to your app and the chat app is ready</h4>
+<h4>Copy the mentioned above to your app and the chat app is ready.</h4>
 <h2>iOS</h2>
 <p> <b>. </b>Inside the iOS folder there is SendMessageViewController.swift this file that contains all the code for the app and also create the views programmatically for the app.</p>
 <p> <b>. </b> Notice I did not include the storyboard file because you just have to create an empty CollectionView and make SendMessageViewController the class of it.</p>
