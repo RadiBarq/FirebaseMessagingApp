@@ -21,7 +21,7 @@ This is a professional real time messaging app using firebase for both Android (
 <p> <b>. </b> There are also the Message.swift that cointains the message components.</p>
 <p> <b>. </b> There are also the ChatMessageCell.swift that have the cell design components.</p>
 <p> <b>. </b> Finally in the assests folder there is the profile image picture for the chat app, actually this is a static image that does not change with every user so you may want to improve the app and malke it change the picture for every user.</p>
-<h4>Copy the mentioned above to your app and the chat app is ready</h4>
+<h4>Copy the mentioned above to your app and the chat app is ready.</h4>
 #Requirments
 <h4><b>1-</b> Knowing how to work with firebase on android or iOS to change the reference of the firebase to your database, modify the code to your own taste and understand how the code works.</h4>
 <h4> <b>2- </b> knowing how to work with either iOS (swift)(xcode) or android(java)(android studio),understand the code, fix the errors and modify the code </h4>
