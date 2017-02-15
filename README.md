@@ -22,8 +22,11 @@ This is a professional real time messaging app using firebase for both Android (
 <p> <b>. </b> There are also the ChatMessageCell.swift that have the cell design components.</p>
 <p> <b>. </b> Finally in the assests folder there is the profile image picture for the chat app, actually this is a static image that does not change with every user so you may want to improve the app and malke it change the picture for every user.</p>
 <h4>Copy the mentioned above to your app and the chat app is ready.</h4>
+<h2> Firebase Structure</h2>
+<p><b>. </b> The struture of the firebase as you see in the picture below. Every user have a child called chat that include the people who is chat with, inside each perosn who is chat with, there is the list of messages.</p>
+![alt tag](https://firebasestorage.googleapis.com/v0/b/pokemongotradecenter-b009d.appspot.com/o/images%2FScreen%20Shot%202017-02-15%20at%209.05.22%20AM.png?alt=media&token=a6c08a9a-c45f-4b83-a814-32a6384573a6)
 #Requirments
 <h4><b>1-</b> Knowing how to work with firebase on android or iOS to change the reference of the firebase to your database, modify the code to your own taste and understand how the code works.</h4>
-<h4> <b>2- </b> knowing how to work with either iOS (swift)(xcode) or android(java)(android studio),understand the code, fix the errors and modify the code </h4>
+<h4> <b>2- </b> knowing how to work with either iOS (swift)(xcode) or android(java)(android studio) to understand the code, fix the errors and modify the code </h4>
 <h4><b>3- </b>Have a previous experience with git and github to clone this project and inform me if there are errors in my code occured in your side.</h4>
-
+<h2>Enjoy.<h2>
